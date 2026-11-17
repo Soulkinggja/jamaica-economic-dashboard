@@ -2,7 +2,7 @@
 
 An interactive dashboard that shows how Jamaica's economy has changed since 2000, built with Python, pandas, Plotly and Streamlit.
 
-**Live app:** add your Streamlit link here
+**Live app:** https://jamaica-economy.streamlit.app
 
 ## What it shows
 
