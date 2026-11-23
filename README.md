@@ -19,7 +19,7 @@ How Jamaica's economy has changed since 2000, from the debt crisis years to the 
 
 ## Four findings
 
-**1. Jamaica more than halved its debt burden.** Public debt peaked at 140.3% of GDP in 2012. After the 2013 IMF programme it fell almost every year, to 62.5% in 2024. Very few countries have cut debt that far without a default. Hurricane Melissa pushed it back up to 67.7% in 2025.
+**1. Jamaica more than halved its debt burden.** Public debt peaked at 140.3% of GDP in 2012. After the 2013 IMF programme it fell almost every year, to 62.5% in 2024. Hurricane Melissa pushed it back up to 67.7% in 2025.
 
 **2. Growth has been the weak spot the whole time.** Real GDP grew about 1.0% a year on average from 2000 to 2025, which adds up to only 28% over 26 years. The economy shrank in 2008 to 2010, fell 8.3% in 2020 during COVID 19, and was flat again in 2024 and 2025 after two hurricanes.
 
